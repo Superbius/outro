@@ -1,0 +1,6 @@
+framework module liquid_swipe {
+  umbrella header "liquid_swipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
