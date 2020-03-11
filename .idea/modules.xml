@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/smart_lesson.iml" filepath="$PROJECT_DIR$/smart_lesson.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/smart_lesson_android.iml" filepath="$PROJECT_DIR$/android/smart_lesson_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_outro.iml" filepath="$PROJECT_DIR$/lesson_outro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/lesson_outro_android.iml" filepath="$PROJECT_DIR$/android/lesson_outro_android.iml" />
     </modules>
   </component>
 </project>

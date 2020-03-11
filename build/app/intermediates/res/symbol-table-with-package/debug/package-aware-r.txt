@@ -1,4 +1,4 @@
-com.example.smart_lesson
+com.example.lesson_outro
 attr alpha
 attr coordinatorLayoutStyle
 attr font

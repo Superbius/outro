@@ -147,7 +147,7 @@
     },
     {
       "name": "lottie",
-      "rootUri": "file:///Users/ederbanov/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/lottie-0.2.2",
+      "rootUri": "file:///Users/ederbanov/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/lottie-0.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -272,7 +272,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-02-28T11:58:08.876278Z",
+  "generated": "2020-02-25T06:01:55.680376Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

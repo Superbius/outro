@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34720335-09dd-4279-8781-e34e550d4bfa" name="Default Changelist" comment="" />
+    <list default="true" id="fbbb0aaf-d697-4f4c-97cf-0408817d0875" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +24,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1YOEaSRSwfrsqErAsDzEPBJYvnP" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+      <find>SliverPersistentHeaderDelegate</find>
+      <find>kToolbarHeight</find>
+      <find>text</find>
+      <find>expandedHeight</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1YyeGkGdzxEAMRFn7cPubnkeMKU" />
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -54,11 +63,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34720335-09dd-4279-8781-e34e550d4bfa" name="Default Changelist" comment="" />
-      <created>1582641895809</created>
+      <changelist id="fbbb0aaf-d697-4f4c-97cf-0408817d0875" name="Default Changelist" comment="" />
+      <created>1582031650266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582641895809</updated>
+      <updated>1582031650266</updated>
     </task>
     <servers />
   </component>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ederbanov/research/smart_move/smart_lesson/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/ederbanov/research/lessonOutro/lesson_outro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/ederbanov/research/smart_move/smart_lesson/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/ederbanov/research/lessonOutro/lesson_outro/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
